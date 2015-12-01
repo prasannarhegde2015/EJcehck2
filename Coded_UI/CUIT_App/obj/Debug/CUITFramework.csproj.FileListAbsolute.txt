@@ -1,0 +1,15 @@
+C:\Users\E158541\Documents\My Received Files\CUIT_App\CUIT_App\obj\Debug\CUITFramework.csprojResolveAssemblyReference.cache
+C:\Users\E158541\Documents\My Received Files\CUIT_App\CUIT_App\bin\Debug\CUITFarmework.dll
+C:\Users\E158541\Documents\My Received Files\CUIT_App\CUIT_App\bin\Debug\CUITFarmework.pdb
+C:\Users\E158541\Documents\My Received Files\CUIT_App\CUIT_App\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\E158541\Documents\My Received Files\CUIT_App\CUIT_App\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Playback.dll
+C:\Users\E158541\Documents\My Received Files\CUIT_App\CUIT_App\bin\Debug\Helper.pdb
+C:\Users\E158541\Documents\My Received Files\CUIT_App\CUIT_App\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\E158541\Documents\My Received Files\CUIT_App\CUIT_App\obj\Debug\CUITFarmework.dll
+C:\Users\E158541\Documents\My Received Files\CUIT_App\CUIT_App\obj\Debug\CUITFarmework.pdb
+D:\Work\CUIT_App\CUIT_App\bin\Debug\CUITFarmework.dll
+D:\Work\CUIT_App\CUIT_App\bin\Debug\CUITFarmework.pdb
+D:\Work\CUIT_App\CUIT_App\bin\Debug\Helper.pdb
+D:\Work\CUIT_App\CUIT_App\obj\Debug\CUITFramework.csprojResolveAssemblyReference.cache
+D:\Work\CUIT_App\CUIT_App\obj\Debug\CUITFarmework.dll
+D:\Work\CUIT_App\CUIT_App\obj\Debug\CUITFarmework.pdb
